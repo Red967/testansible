@@ -1,5 +1,5 @@
 ---
-- hosts: webservers
+- hosts: test_server
   remote_user: root
 
   tasks:
