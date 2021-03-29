@@ -1,0 +1,4 @@
+ - hosts: test_server
+   tasks:
+    - name: install xrdp
+      apt: name=xrdp
